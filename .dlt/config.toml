@@ -1,0 +1,9 @@
+[sources.shopify_dlt]
+shop_url = "https://bodylab-ch-staging.myshopify.com"
+organization_id = "organization_id" #
+
+[runtime]
+dlthub_telemetry = true
+
+[logging]
+log_level="INFO"

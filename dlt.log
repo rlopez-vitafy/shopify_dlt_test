@@ -1,0 +1,3 @@
+2024-09-16 14:46:51,346 - dlt - INFO - Starting pipeline to load all resources.
+2024-09-16 14:49:27,838 - dlt - INFO - Starting pipeline to load all resources.
+2024-09-16 14:49:30,397|[WARNING]|94936|8643379776|dlt|shopify_dlt_pipeline.py|load_all_resources:49|No load packages found.
